@@ -14,63 +14,56 @@ Power BI Developer & Data Analyst with **3+ years of experience at Cognizant**, 
 
 I specialize in:
 - **Power BI, SQL, DAX, Power Query, Microsoft Fabric**
-- **BI migrations** (Qlik → Power BI, Cognos → Power BI, SAP Webi → Power BI)
-- Handling **40M–60M+ row datasets**, performance tuning & advanced DAX modeling
+- **BI migrations:** Qlik → Power BI, Cognos → Power BI, SAP Webi → Power BI  
+- Handling **40M–60M+ row datasets**, performance tuning & advanced DAX  
 - Building **ETL pipelines, Dataflows Gen2**, and automated analytics workflows  
+- Experience across **Oracle SQL Developer, Snowflake SQL, and Databricks SQL**
 
 I turn raw data into clean, actionable visual insights.
 
 ---
+
+## 🛠️ Tech Stack
+
 <p align="left">
 
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python"/>
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="45"/>
+  </a>
+  <!-- Microsoft Fabric -->
+  <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank">
+    <img src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NDcwNDQ3LXVMb0U1RA?revision=1" height="45"/>
   </a>
 
-  <!-- Azure (Devicon instead of skillicons) -->
-  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="40" alt="azure"/>
+  <!-- Oracle SQL Developer -->
+  <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank">
+    <img src="https://img.icons8.com/color/512/oracle-logo.png" height="45"/>
+  </a>
+
+  <!-- Snowflake -->
+  <a href="https://www.snowflake.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/snowflake.svg" height="45"/>
+  </a>
+
+  <!-- Databricks -->
+  <a href="https://www.databricks.com/" target="_blank">
+    <img src="https://seeklogo.com/images/D/databricks-logo-DA1E33FADB-seeklogo.com.png" height="45"/>
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45"/>
   </a>
 
   <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="git"/>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="45"/>
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="github"/>
-  </a>
-
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="40" alt="powerbi"/>
-  </a>
-
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver"/>
-  </a>
-
-  <!-- Oracle -->
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="oracle"/>
-  </a>
-
-  <!-- Microsoft Fabric -->
-  <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=512&id=UCFpG97VLjxE&format=png" height="40" alt="fabric"/>
-  </a>
-
-  <!-- Power BI Report Builder -->
-  <a href="https://learn.microsoft.com/power-bi/paginated-reports/report-builder-power-bi" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=512&id=63306&format=png" height="40" alt="reportbuilder"/>
+  <a href="https://github.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45"/>
   </a>
 
 </p>
